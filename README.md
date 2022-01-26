@@ -4,3 +4,4 @@
 ### [Functions](./Functions)
 ### [Patterns](./patterns)
 ### [Array](./Array)
+### [Linked List](./LinkedList)
