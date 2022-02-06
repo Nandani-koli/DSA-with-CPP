@@ -5,3 +5,4 @@
 ### [Patterns](./patterns)
 ### [Array](./Array)
 ### [Linked List](./LinkedList)
+### [Stack](./Stack)
