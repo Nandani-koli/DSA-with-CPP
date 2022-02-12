@@ -6,3 +6,4 @@
 ### [Array](./Array)
 ### [Linked List](./LinkedList)
 ### [Stack](./Stack)
+### [Queue](./Queue)
