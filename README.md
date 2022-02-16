@@ -7,3 +7,4 @@
 ### [Linked List](./LinkedList)
 ### [Stack](./Stack)
 ### [Queue](./Queue)
+### [Trees](./Trees)
