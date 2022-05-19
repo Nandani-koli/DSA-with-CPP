@@ -8,3 +8,4 @@
 ### [Stack](./Stack)
 ### [Queue](./Queue)
 ### [Trees](./Trees)
+### [Heap](./HEAP&PriorityQueue)
