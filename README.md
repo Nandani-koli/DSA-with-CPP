@@ -9,3 +9,5 @@
 ### [Queue](./Queue)
 ### [Trees](./Trees)
 ### [Heap](./HEAP&PriorityQueue)
+### [Hashing](./Hashing)
+### [Graphs](./Graph)
